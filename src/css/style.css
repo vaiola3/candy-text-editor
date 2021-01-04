@@ -1,0 +1,25 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+
+.container
+{
+    width: auto;
+    max-width: 768px;
+
+    height: auto;
+    min-height: 100vh;
+
+    margin: auto;
+
+    /* background-color: blueviolet; */
+
+    display: flex;
+}
+
+.on-center-x-y
+{
+    margin: auto;
+}
